@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#cart {
+  border: 2px solid black;
+  padding: 20px;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  background-color: teal;
+}
+
+p {
+  margin: 20px;
+}

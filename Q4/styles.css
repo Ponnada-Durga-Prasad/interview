@@ -1,0 +1,7 @@
+#box {
+    color: green;
+}
+div .box {
+    color: red !important;
+}
+
